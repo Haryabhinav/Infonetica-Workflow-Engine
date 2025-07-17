@@ -5,7 +5,7 @@ A minimal backend service for a configurable workflow engine (state-machine API)
 ## Quick-Start
 
 1. **Prerequisites**: Install [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
-2. **Clone Repo**: `git clone https://github.com/your-username/Infonetica-Workflow-Engine.git`
+2. **Clone Repo**: `git clone https://github.com/Haryabhinav/Infonetica-Workflow-Engine.git`
 3. **Navigate**: `cd WorkflowEngine`
 4. **Restore**: `dotnet restore`
 5. **Run**: `dotnet run`
