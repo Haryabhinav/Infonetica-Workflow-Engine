@@ -1,0 +1,105 @@
+{
+  "Definitions": [
+    {
+      "Id": "string",
+      "States": [
+        {
+          "Id": "string",
+          "Name": "string",
+          "IsInitial": true,
+          "IsFinal": true,
+          "Enabled": true,
+          "Description": "string"
+        }
+      ],
+      "Actions": [
+        {
+          "Id": "string",
+          "Name": "string",
+          "Enabled": true,
+          "FromStates": [
+            "string"
+          ],
+          "ToState": "string",
+          "MinTimeInStateSeconds": 0
+        }
+      ]
+    },
+    {
+      "Id": "string",
+      "States": [
+        {
+          "Id": "string",
+          "Name": "string",
+          "IsInitial": true,
+          "IsFinal": true,
+          "Enabled": true,
+          "Description": "string"
+        }
+      ],
+      "Actions": [
+        {
+          "Id": "string",
+          "Name": "string",
+          "Enabled": true,
+          "FromStates": [
+            "string"
+          ],
+          "ToState": "string",
+          "MinTimeInStateSeconds": 0
+        }
+      ]
+    },
+    {
+      "Id": "string",
+      "States": [
+        {
+          "Id": "string",
+          "Name": "string",
+          "IsInitial": true,
+          "IsFinal": true,
+          "Enabled": true,
+          "Description": "string"
+        }
+      ],
+      "Actions": [
+        {
+          "Id": "string",
+          "Name": "string",
+          "Enabled": true,
+          "FromStates": [
+            "string"
+          ],
+          "ToState": "string",
+          "MinTimeInStateSeconds": 0
+        }
+      ]
+    },
+    {
+      "Id": "string",
+      "States": [
+        {
+          "Id": "string",
+          "Name": "string",
+          "IsInitial": true,
+          "IsFinal": true,
+          "Enabled": true,
+          "Description": "string"
+        }
+      ],
+      "Actions": [
+        {
+          "Id": "string",
+          "Name": "string",
+          "Enabled": true,
+          "FromStates": [
+            "string"
+          ],
+          "ToState": "string",
+          "MinTimeInStateSeconds": 0
+        }
+      ]
+    }
+  ],
+  "Instances": []
+}
